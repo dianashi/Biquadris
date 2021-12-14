@@ -1,5 +1,5 @@
 # Biquadris
-A two player Tetris based Biquadris game. 
+A two player Tetris based Biquadris game. The source code is kept secret due to Policy 71 of University of Waterloo.
 
 ## Introduction
 This project is build with two other people for the final project of an OOP course at the University of Waterloo. With the implementations of multiple bonus features, our group earned 110% for this project. Compared to Tetris, Biquadris is not a real-time game. Players have as much time as they want to decide where to place the next block. Players will take turns dropping blocks, one at a time [if special actions are not triggered]. During a player's turn, the blocks that the opponent will have to play next is already displayed at the top of the opponent's board. 
